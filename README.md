@@ -1,10 +1,19 @@
-# Requests, JSON, and basic NLP with spaCy
 
+# P4: Requests, JSON, and basic NLP with spaCy
+# Kristen Finley
+### NWMS MS Data Analytics
+### 44-620 Web Mining & Applied NLP
+### 2024 Spring OP2
+---
+# Objectives
+This exercise illustrates how to access web-hosted APIs, get back a response in JSONLinks to an external site. format, and extract the information we need from the JSON. Accessing APIs is a key skill for data analysts. We can use web APIs to get stock data, weather data, and much more. We'll use an API to access song lyrics or poems in this exercise. We don't care which API - there are many and they change. The skill skills are being able to (a) make an API request and (b) find the information we need in the returned response.
+
+---
+## Directions:
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
-## Rubric
-
+## Rubric:
 * (Question 1) Lyrics printed: 1 pt
 * (Question 1) File created and submitted with notebook: 1 pt
 * (Question 2) Correct polarity reported: 1 pt
